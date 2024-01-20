@@ -1,2 +1,2 @@
 # ProjetInsaS2
-Open the project with an IDE of your choice !!
+Open the project ("V2"File) with an IDE of your choice !!
